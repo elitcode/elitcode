@@ -1,4 +1,5 @@
 ### Hi there 👋
+- I am a professional software developer. I have been developing software for 5 years and decided to share some of my projects on github.
 
 <div align="center">
 <h3>Contact İnformation</h3>
